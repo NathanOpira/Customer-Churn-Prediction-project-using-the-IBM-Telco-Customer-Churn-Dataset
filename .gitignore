@@ -67,10 +67,15 @@ venv.bak/
 
 # Model files
 *.pkl
+*.pickle
 *.joblib
 *.h5
 *.pth
 *.model
+
+# Models directory (but keep .gitkeep for structure)
+models/*
+!models/.gitkeep
 
 # Logs
 *.log
