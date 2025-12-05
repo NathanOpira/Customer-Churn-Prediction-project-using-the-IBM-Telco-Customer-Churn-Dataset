@@ -1,0 +1,19 @@
+name: Customer Churn Prediction
+description: Machine Learning models for predicting customer churn using IBM Telco dataset
+version: 1.0.0
+author: Nathan Opira
+license: MIT
+keywords:
+  - machine-learning
+  - customer-churn
+  - prediction
+  - deep-learning
+  - logistic-regression
+  - data-science
+  - ibm-telco-dataset
+topics:
+  - classification
+  - neural-networks
+  - data-preprocessing
+  - feature-selection
+  - model-evaluation
